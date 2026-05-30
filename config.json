@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdalculate",
+        "uuid": 1325944,
+        "checksum": "jpc1rt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
